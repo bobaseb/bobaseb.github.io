@@ -1,0 +1,9 @@
+.jemdoc
+*.command
+dev/
+old/
+decision*
+categorization*
+*pynb*
+.ipyn*
+*clarte*
